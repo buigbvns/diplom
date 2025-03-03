@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 6a43dcb828d6fa29147077c4aa682677?>
+<?validation-md5-digest 9b8cbc74e0bf6a8e05cf126290d6efb6?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>volkovandrej324@gmail.com</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>6</revision>
+			<revision>8</revision>
 			<documentID>E0BAC41E-4255-42D3-977D-A7FD261B28CD</documentID>
-			<versionID>427088DE-5020-4C94-A09C-32EE2240429D</versionID>
+			<versionID>0FB36F38-1F2A-4CC9-ACCB-31A0987DE741</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -79,15 +79,15 @@
 		</editor>
 		<fileFormat image-type="image/png" image-quality="75" save-numeric-results="true" exclude-large-results="true" save-text-images="false" screen-dpi="96"/>
 		<miscellaneous>
-			<handbook handbook-region-tag-ub="236" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="892548197"/>
+			<handbook handbook-region-tag-ub="243" can-delete-original-handbook-regions="true" can-delete-user-regions="true" can-print="true" can-copy="true" can-save="true" file-permission-mask="892548197"/>
 		</miscellaneous>
 	</settings>
 	<regions>
-		<region region-id="1" left="150" top="18.75" width="115.5" height="14.25" align-x="163.5" align-y="30" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="246" left="138" top="24.75" width="115.5" height="14.25" align-x="151.5" align-y="36" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="true">
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">
 					<f size="12">
-						<b>1.Расчет двигателя</b>
+						<b>1.Расчет<sp count="4"/>ЭД </b>
 					</f>
 				</p>
 			</text>
@@ -96,7 +96,7 @@
 			<math optimize="false" disable-calc="false">
 				<ml:define warning="WarnRedefinedBIUnit" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">m</ml:id>
-					<ml:real>15</ml:real>
+					<ml:real>18</ml:real>
 				</ml:define>
 			</math>
 			<rendering item-idref="1"/>
@@ -104,10 +104,10 @@
 		<region region-id="3" left="54" top="45" width="9" height="12.75" align-x="57.75" align-y="54" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239814036" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937052" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239813476" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="183986820" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -130,10 +130,10 @@
 		<region region-id="5" left="12" top="63" width="31.5" height="12.75" align-x="24" align-y="72" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239814036" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937052" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="337841828" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="183988260" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -151,11 +151,11 @@
 				</element-image-map>
 			</rendering>
 		</region>
-		<region region-id="209" left="12" top="87" width="36.75" height="12.75" align-x="24.75" align-y="96" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="209" left="12" top="87" width="32.25" height="12.75" align-x="24.75" align-y="96" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:define warning="WarnRedefinedBIUnit" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">V</ml:id>
-					<ml:real>1.25</ml:real>
+					<ml:real>1.1</ml:real>
 				</ml:define>
 			</math>
 			<rendering item-idref="4"/>
@@ -177,10 +177,10 @@
 		<region region-id="10" left="60" top="111" width="14.25" height="12.75" align-x="66" align-y="120" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239895820" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937652" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239896100" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937452" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -209,7 +209,7 @@
 			</math>
 			<rendering item-idref="7"/>
 		</region>
-		<region region-id="13" left="72" top="134.25" width="216" height="24" align-x="102.75" align-y="144" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="13" left="72" top="134.25" width="216" height="12" align-x="102.75" align-y="144" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="true">
 				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">коэффициентр трения качения</p>
 			</text>
@@ -217,10 +217,10 @@
 		<region region-id="90" left="18" top="153" width="48" height="15" align-x="42" align-y="162" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239895820" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937652" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="337841948" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937892" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -246,10 +246,10 @@
 		<region region-id="183" left="18" top="170.25" width="56.25" height="27.75" align-x="31.5" align-y="186" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239895540" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937212" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="337841948" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937892" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -279,10 +279,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="337841948" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937892" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239896100" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937452" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -309,10 +309,10 @@
 		<region region-id="186" left="18" top="206.25" width="67.5" height="27.75" align-x="35.25" align-y="222" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="337841948" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937892" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239895820" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937652" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -345,10 +345,10 @@
 		<region region-id="187" left="18" top="236.25" width="60" height="27.75" align-x="40.5" align-y="252" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239896620" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937972" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239895820" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937652" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -383,10 +383,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239895460" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937852" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239896620" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937972" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -395,7 +395,7 @@
 						<ml:id xml:space="preserve">Tko</ml:id>
 					</ml:provenance>
 					<result xmlns="http://schemas.mathsoft.com/math30">
-						<ml:real>1.8375000000000004</ml:real>
+						<ml:real>2.205</ml:real>
 					</result>
 				</ml:eval>
 			</math>
@@ -449,10 +449,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239895820" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403938012" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239895540" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937052" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -461,7 +461,7 @@
 						<ml:id xml:space="preserve" subscript="к">n</ml:id>
 					</ml:provenance>
 					<result xmlns="http://schemas.mathsoft.com/math30">
-						<ml:real>246.11589137921956</ml:real>
+						<ml:real>216.58198441371323</ml:real>
 					</result>
 				</ml:eval>
 			</math>
@@ -474,10 +474,10 @@
 		<region region-id="202" left="300" top="278.25" width="21" height="27.75" align-x="306.75" align-y="294" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239895460" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937652" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239896340" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937892" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -519,10 +519,10 @@
 						<ml:apply>
 							<ml:mult/>
 							<ml:provenance expr-id="1">
-								<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239896860" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+								<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403938012" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 									<hash/>
 								</originRef>
-								<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239895860" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+								<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937212" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 									<hash/>
 								</parentRef>
 								<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -531,10 +531,10 @@
 								<ml:id xml:space="preserve">Tko</ml:id>
 							</ml:provenance>
 							<ml:provenance expr-id="2">
-								<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239896340" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+								<originRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937892" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 									<hash/>
 								</originRef>
-								<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="239896100" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+								<parentRef doc-id="F184063C-8572-43B4-9DF2-DC896C26D615" version-id="BF5A1C7D-0D16-4900-AF05-18A835739432" branch-id="00000000-0000-0000-0000-000000000000" revision-num="403937452" is-modified="false" region-id="0" href="C:\Users\volko\Downloads\Проекты\курсач по детмашу\маткад\курсач по детмашу.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 									<hash/>
 								</parentRef>
 								<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -571,7 +571,7 @@
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:id xml:space="preserve">P</ml:id>
 					<result xmlns="http://schemas.mathsoft.com/math30">
-						<ml:real>71.001358214262623</ml:real>
+						<ml:real>74.977434274261313</ml:real>
 					</result>
 				</ml:eval>
 			</math>
@@ -594,13 +594,12 @@
 				<p style="Обычный" margin-left="0" margin-right="0" text-indent="0" text-align="left" list-style-type="none" tabs="inherit">CHP-42GP-775 ABHL</p>
 			</text>
 		</region>
-		<region region-id="229" left="24" top="416.25" width="299.25" height="72" align-x="49.5" align-y="426" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
+		<region region-id="229" left="24" top="416.25" width="299.25" height="60" align-x="49.5" align-y="426" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="true">
 				<p style="Обычный" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">Напряжение: 24 В</p>
 				<p style="Обычный" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">номинальный момент: 3 Н/м</p>
 				<p style="Обычный" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">номинальныя частота вращения выходного вала: 250 об/мин</p>
 				<p style="Обычный" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">номинальный ток: 9 А</p>
-				<p style="Обычный" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit"/>
 			</text>
 		</region>
 		<region region-id="230" left="24" top="476.25" width="105.75" height="27.75" align-x="45" align-y="492" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
@@ -669,11 +668,12 @@
 	</regions>
 	<binaryContent>
 		<item item-id="1">iVBORw0KGgoAAAANSUhEUgAAACkAAAARCAYAAABASYU2AAAAAXNSR0IArs4c6QAAAARnQU1B
-AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADPSURBVEhL7ZSJDcMgDAA9FwN5jo7A
-NCzDMK5MeFwDaZoSSKWehAIEmcM8QD8A6I478pccxXJJbw0BOtXrCAEIQsG1kkGQRZSkt0jW
-l/ZSSabOZMmiiaZF0iGBseTi6nhAWmkaXLMFrHbrA2rJ/INMnDtKKnsxYKsjNcIIPFmTzpAq
-LQFBVzLAXvJMSple/QL2JXmDh0lelUmOO0zyPLuSDuWZLJlAJ+sxSDcjX14cvqw6442+5U/Q
-EbIkPF5937VnEmZmASlxpD2TLHnmO4snDyznucgfsiAAAAAASUVORK5CYII=</item>
+AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADhSURBVEhL7ZQBDoMgDEV7rh6o59gR
+ehouw2H+UugQBKNzTl2ynxBLNeX1IxB+QDRP3FF/yKN0OWRUBknoc0RpsMZrIQtMAxkgxNCY
+PgATXwtp6pxMYIKcycATZBAQK4J3Zza/OrV4LCtCmO3WW+ogEaHs7gaptzsvVoBSN3X86mxJ
+XthrNGOlgx7S5Dyen5ysYZbiL2gEGVWg0RtnPQryQCdtPVbkH8zrNi9HYJsg92sI2RycAjk5
+IaGOvciiIx8eHDusA8dvdU9uVYGkR8u7Nj9TaWUDqCG2zM9UgdzzPEtP1WXUiPlMBYYAAAAA
+SUVORK5CYII=</item>
 		<item item-id="2">iVBORw0KGgoAAAANSUhEUgAAAAwAAAARCAYAAADpPU2iAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABoSURBVDhP5ZDRCYAwDERvrhso82Sa
 LJNhTqolaFGqgl8eHKQXXmgCPRTGYKY/AyknBDSbot4UK+8uNF0E5SkpTFyLIVeOQJ9iUfER
@@ -685,14 +685,13 @@ d0Deao2MEJgkSGPC80LFKXHIiJgdGxgSyKJHoRGr3b3tW2TyftmO0JJ2E12hnJgC5LiIc+k7
 u50FfcqCU3La9uaqGa3cvlAdUTNsnU6obHpW6DVEXEuq7dmTCJlSMSLQVHo9G7aAd8hnLjja
 I+56cf2Fsz3aaGSsgw8wHYGBzWUahPrueAl/cpnqhZ1NKdW0NQ/+o4ljdH4Tl9TcTxUKr/H2
 SV+yMp3SX4nuLiKk1dKXvgm3/kqq0DPPFbwBQ8MQOqABgkgAAAAASUVORK5CYII=</item>
-		<item item-id="4">iVBORw0KGgoAAAANSUhEUgAAADEAAAARCAYAAAB0MEQqAAAAAXNSR0IArs4c6QAAAARnQU1B
-AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEeSURBVEhL7ZWLDcQgCIady4GY40Zg
-GpZxGC74OqHa2mubtJf7EtMIrfILWMc/gLOGJ/IXcReyiMDoHTsnwzOG7CVINo9cTGcS0LMD
-subMIKYIMUS7DGgzkRx2TQLg0TZHiAIkCLthJiDUwAn0QbY+QZWTLOyV5MCI/U3OYD0TDQHZ
-u3KYnyyUWHVPqJfTfKyhn7k97BJhSzrGmoSYxk51WNYlnOmFtnbN2AhwWgSBqZDqYNA9UeyQ
-FybG7ofnMSeCGGwWGqRnlyKiOs+IaG6EEddmYv1ikb27Ipa3wVVsiRB/dQdksKeay6wrYr2h
-Cwcbu/yD2ozlZpVpPEiV2fyv6HzXF/Ewqgj30nq25nciRiYBtkHOzO9EFfHN8y68AWI+8mmp
-piNwAAAAAElFTkSuQmCC</item>
+		<item item-id="4">iVBORw0KGgoAAAANSUhEUgAAACsAAAARCAYAAABEvFULAAAAAXNSR0IArs4c6QAAAARnQU1B
+AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADaSURBVEhL7ZQNDoMgDEZ7rh6Ic+wI
+PQ2X4TDfQgeuNMpUdLpkLyGG8uNLKRB+CPKBO/OXPYsimyBMIMqNIamMxvCKsaCGjiQJg0L0
+4QY7x2Q2IhDBr40hoL/dPlQiJ8L/0ODnNGWQB3lKq0YgsrzZKAOZ1REwmUwmwbLr/ElsYUy2
+1G5dH2VNrdp6d22DyBId2XKpdDBCmpI4nnFZPV6GiLxfhS5XZlaTe95zZTlEtn+xKoMXrL7h
+9gT0gps93Zx52ZsyydKj9f7UvwI1yCJWZk3/CibZPd9v8wTLvYpM4dqZjgAAAABJRU5ErkJg
+gg==</item>
 		<item item-id="5">iVBORw0KGgoAAAANSUhEUgAAACkAAAARCAYAAABASYU2AAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADjSURBVEhL7VVbDoQgDOy5OFDP09P0
 Mj3MbHgJW1g1yocmO4nRDJQZWqiEF4A88UT8Ta5CMalgItDkCWI+ZhlMwqbDWtmJlz5I2ZlS
@@ -766,14 +765,14 @@ RaqVe153lf82WUSYfljgIBsJTNPT3SLXzzYC6VZ11kK3jcCMidvSfQVyBA6goaxzX7KhQI0w
 KfoM2wnUMCf3nWwl0LyGC7sg+6J4PA63EZh/S55XC24j8FewwEFY4CAscJA/RGfNx8/psJ4A
 AAAASUVORK5CYII=</item>
 		<item item-id="13">iVBORw0KGgoAAAANSUhEUgAAAEkAAAARCAYAAACRroFGAAAAAXNSR0IArs4c6QAAAARnQU1B
-AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFVSURBVFhH7ZbbDcMgDACZi4E8j6dh
-mQzjirdtIED6UD84qVJDTAxnB8XQYYrRA4eWI2mBI2mBIulCS8aY7s/i5QPIGiAn5/+EsDYY
-Z+ZrD2ttxi2x4WH8CCYJyoMcsMkXEiAShIf+XlLZ0FCSI8gSQiHrf0h7kJIH8Td0XzchKfOv
-nSTWxQRwHIiiT+MVjySV6lqkGOWT5ddznnSXW0l0EdrUaVwGv4987iy+5ZEkcshExKR5D35u
-/7VMi+uceWMBkXtJnlSkJqYWT+5nFN9nU5Ilm6ugxku4vv4AM0nxPE1FKN3N7/vOr4WbxWu2
-JQFY+WAH8hUbSvpSJ/l8ZT2yqyu+c5KkpXjJpqSYSN5XreulLVRnh6kkcRB3Nu3XlAdX4hVK
-kqq2Ml6qHrqHnT0hcZ7XO4/eoORihUj56mX73SO++5SFXvwd3U46SI6kBY6kBY6kBV7tlrP5
-DrX6OQAAAABJRU5ErkJggg==</item>
+AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFZSURBVFhH7ZXRDcQgCIady4GYx2lc
+psNwQS1FxJM2vdyLX+JDKaXwixhwsyRow2Zki+Rgi+SARTpSxBCCuWI6yAFjAMz99z/mwBTP
+PCJSGiNffErOhh0zAte3rkmIBBwoQxOmvkBIqQVdB3wTnVOICbVOcx8SoomjNlh+48E8bp1I
+J3/pJIHn/9InAwZgWUq31ceri4YaJzwSiY9mt2uTln8L+r/RSR3Cp+TIIhk1taM41GnwSCTM
+SQghd6m1vLnjcnaoJYqZkmHMSSN8SCTpb9ZUNtfKteemSBEjFSqLanZ218+vkBFWXaR8fCKR
+/QciAcR+gNLZd4n0vJM8hQw+05kkIfs69k2RasD+fZtH13kzb6GnUEdctdJNO0a2fdTtZuXk
+OcKjSGq3ObCwUzale8TsaUOws71AnW9yySu9dsbUh+C8hI1zX3fwidlJm54tkoMtkoMtkoMP
+XgHEVfAOohwAAAAASUVORK5CYII=</item>
 		<item item-id="14">iVBORw0KGgoAAAANSUhEUgAAAA4AAAAlCAYAAAByI9gkAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACsSURBVEhL7ZSBCcQwCEWdy4Gcx2lc
 JsP8YnLXSEqC7RXKcfdBSowvNrZKuCgaHVk9DhYoE4heJla9JsHHinIEmzyQ1be7ivJ+kOsU
@@ -795,15 +794,15 @@ wr5/XJh5PB6e0NfrRT9SADltTRzcnU4o5qYpShZ3ZuugRJSK3G43VbZDJ6V4RJ9KqFoqeRNI
 mPRLcCcgjM71YZ/Cz59TZE7nUfP33HqHToIutDJdaGW60Mr8AXO4239PxrWNAAAAAElFTkSu
 QmCC</item>
 		<item item-id="16">iVBORw0KGgoAAAANSUhEUgAAAEwAAAAUCAYAAAAnStuxAAAAAXNSR0IArs4c6QAAAARnQU1B
-AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGCSURBVFhH7ZbRjcMgDECZi4GYx9Ow
-DMP4ZAKNsXEOpz1FuvKkfOCkjnkYmoAbF0EGNtdsYU62MCcPCisIMWAIdEWEIu8j5hQwZRk9
-f6fvHRSIGCY3rfhKzs5jwgqklyQSEyLg4KwARjWBjIkEX8yqSpk8Y8VXcnIeEzZQ5STkJWcA
-hKHDji6Is1YUWJ2k4+s5O6ewWjRtjWbcYf1t6N28w3KqooYt2aQm6sZfatNijLgjZ6cJY5L6
-Sudkni0afh6Ja6EIete5ygUBjt9wYcdkE2YaT7friRJjxD05O5MOM8Z/RsY0dBcMZxsXxrcO
-3bO2khRjxT05Ox8Sdr/DMq3wMNY5aBJysleTk89acTm+ytlZElYTt8LrhCbF3IHyvlIVwCSK
-1WdYr4+OEHsxpQgz7sjZacJ4h9CKs3HdLm3bTCZ1F91Julj1HVbP1eP5USQbs2cGOQvxiWPF
-4mdF+1OQ30pfyLowkkWrsbIM/5glYeoM++JOWxK2OdnCnGxhTrYwJz/HNwLlJCdc2AAAAABJ
-RU5ErkJggg==</item>
+AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGXSURBVFhH7ZYBjoQgDAB5Fw/qe3gN
+n/ExvRQKFCgIGzfm7pjEZEWt7VBwDR62MO3AYc4RtskRtsmLwi501qAxdFh0V3PVWTTg68F4
+JT+nXkaPEGLSAZhuCfF43OaXzXPQeE3Y5SAn6MGgsQ5zGam4zgjL6MYLMm6BnmMhl0PLv2c5
+jHhNWEUoonRDHGo7LHZD6Q6N0l3VfVV8IU+i5KBRhGXzoqUnM/ko9O5mdjthXBBQJ9zlFu5V
+lh4940GXruSgwcKUde9heV3Xe0FzzApLKEW0wuI5oKchFjIPTTXJjrlZzkoOGkqHDc6/hkdQ
+ZlYTJguiPeeuQE+C+Xfcr3hiu/fpOWg8JOzzDpNFSTRh8vxeGOXEsavlFnOVaY1y0FgSlr5a
+lGD4mtxIWIXi5lCXQxACWkF1foONWyKXWLfpF2GzHDRYmOwQCizOw8xwyy4EXCWIr7pRCAj7
+p9KhYlwWmfez0XNpAvhaEjnNYcDi3wreMBfX+V9mXRjJohl8aDn+VpaEdXvYP+60JWGHwhG2
+yRG2yRG2yQ/0f/6AM5GbagAAAABJRU5ErkJggg==</item>
 		<item item-id="17">iVBORw0KGgoAAAANSUhEUgAAABwAAAAlCAYAAABReInxAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEoSURBVFhH7ZbRscQgCEWti4Koh2po
 xmJ4QwxPlmh0ds3uj3fGD8V4vOgEk3xZKQ48rQ2cUBaCJClZA6Ec51R9DGRMghxH+/oQyIJA
@@ -835,13 +834,13 @@ VvQwEGQ59sxR7e6KKa8sGj4JBFmNlB3MUdVOFvD/gzRLBA8AQRZjF8F4F1xIa47gRThPhYAg
 f5SeCL3zTwNBFqM7lWANAiLFzwBk58J3MT/afkOQFSH/QS2yBOogYDUgCBgCQcAQCAKG/AM8
 SrzVaxLbBAAAAABJRU5ErkJggg==</item>
 		<item item-id="20">iVBORw0KGgoAAAANSUhEUgAAAEEAAAARCAYAAACCecGyAAAAAXNSR0IArs4c6QAAAARnQU1B
-AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEjSURBVFhH7ZbbEYUgDESpi4JSD9Wk
-GYrJHYEoCSSDj7/LmfHDBdewgBJoQ0EL/8gOYYdQaSFkSjFQCPKKKev+D0EC5Q14teYUKfSC
-JieK5blIoiRLX/HsECsBoRs4wlDsYxCpt0GA874UewzEfNERYBtkGTQ/a+krnhI7BF4di0br
-ZEqQSE6oM2vHZJxttaZya+mseJ4KO4S21L7bEo2cCJSnV7Bu4xotndHtHkMI4rswNZl/P+z+
-kpzg1v492vrB9SHMdMbz1AwhfD7zgnErFNUp2BqspTOep+ZBCG9WAhJM+rgFW3vf0lnxPBUP
-QngBwvRv4xes/gKRV5KlV3xPyfycsPjwXfpfYyeO720f5WuijfOApc88HfaJcYdQ2SHsECo/
-eRnrB5vKNMoAAAAASUVORK5CYII=</item>
+AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEvSURBVFhH7ZZRkoQgDEQ5FwfKeXKa
+XIbDZEvAGRLS6Or+La9qPqaVENpGTLrR5IX/yDZhm9DoJhTlnDQl+8tc/P0PESVXm8TdQbN2
+UjgH41BNpGNMEo5GPgsXulXgFiI6lhEi818La0ZzHdcya+2q3tfHoppIX4BNONMRdvaGokx9
+UR1hVgZJOFIwJtL2eDLXXOsWbEJ/OvOELymsNNYUqotH26FuheFCaIKveaU7JhPMeyHqCrw/
+8P2WwqTfvooytzHIhLYtv5GOTLA1r3XPZIKf4G9x8RT+NAlNmB5OdgtDkUf6zAMT3iRBlFy0
+fY3l/EcqpjlszWt95oEJL+j7P2KVhIrbFqMejkN6QPydcHf0L1kdV8aE8cjsR3U6j0kHqon0
+iP3FuE1obBO2CY0fHisI+ISmlMkAAAAASUVORK5CYII=</item>
 		<item item-id="21">iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAYAAADtyJ2fAAAAAXNSR0IArs4c6QAAAARnQU1B
 AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB7SURBVDhPxZKBCcAgDAR/rgyUeZzG
 ZRzmi02pmqKkLbQPQow536jgQ8EnovoNzFSA8EMSiycOdY6FSUDN4xwtMWgB1lSiTFyXYNbm
