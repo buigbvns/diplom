@@ -1,0 +1,39 @@
+// Обучение SLAM
+digraph {
+	graph [rankdir=TB]
+	A [label="Начало:
+Студент с
+нулевым опытом" fillcolor="#a8e6cf" shape=oval style=filled]
+	B [label="Модуль 1:
+Основы Linux &
+Командная строка" fillcolor="#dcedc1" shape=box style=filled]
+	C [label="Модуль 2:
+Введение в ROS" fillcolor="#dcedc1" shape=box style=filled]
+	D [label="Модуль 3:
+Управление роботом
+в ROS" fillcolor="#dcedc1" shape=box style=filled]
+	E [label="Модуль 4:
+Основы
+SLAM-навигации" fillcolor="#dcedc1" shape=box style=filled]
+	F [label="Модуль 5:
+SLAM & Navigation
+Stack" fillcolor="#dcedc1" shape=box style=filled]
+	G [label="Модуль 6:
+Gmapping &
+Ручное
+управление" fillcolor="#dcedc1" shape=box style=filled]
+	H [label="Модуль 7:
+Автономная
+навигация в лабиринте" fillcolor="#dcedc1" shape=box style=filled]
+	I [label="Конец:
+Робот автономно
+в лабиринте" fillcolor="#a8e6cf" shape=oval style=filled]
+	A -> B
+	B -> C
+	C -> D
+	D -> E
+	E -> F
+	F -> G
+	G -> H
+	H -> I
+}
