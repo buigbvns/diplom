@@ -1,11 +1,11 @@
 import graphviz
 
-def generate_training_graphviz_updated():
+def generate_horizontal_flowchart():
     """
-    Generates a Graphviz DOT representation of the updated training flowchart.
+    Generates a horizontal flowchart of the SLAM training process using Graphviz.
     """
 
-    dot = graphviz.Digraph(comment='Обучение SLAM', graph_attr={'rankdir': 'TB'})
+    dot = graphviz.Digraph(comment='SLAM Training Flow', graph_attr={'rankdir': 'LR'})  # LR for left-to-right
 
     # Nodes
     dot.node('A', 'Начало:\nСтудент с\nнулевым опытом', shape='oval', style='filled', fillcolor='#a8e6cf')
@@ -28,15 +28,13 @@ def generate_training_graphviz_updated():
     dot.edge('G', 'H')
     dot.edge('H', 'I')
 
-    # Sub-nodes (optional, for more detail) - Add these as needed for clarity
-
     return dot
 
 if __name__ == "__main__":
     try:
-        graph = generate_training_graphviz_updated()
-        graph.render('training_flowchart_updated', view=True, format='png')
-        print("Flowchart generated successfully as training_flowchart_updated.png")
+        horizontal_graph = generate_horizontal_flowchart()
+        horizontal_graph.render('horizontal_training_flow', view=True, format='png')
+        print("Horizontal flowchart generated successfully as horizontal_training_flow.png")
     except graphviz.backend.ExecutableNotFound as e:
         print(f"Error: Graphviz executable not found. Please install Graphviz system-wide.\n{e}")
     except Exception as e:
